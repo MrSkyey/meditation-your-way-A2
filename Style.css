@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
+
+h1,h2,p {
+  font-family:Arial, "Open Sans", Lora;
+}
+
+body {
+  background-color: #ffff0a;
+}
+
+footer {
+  background-color: aquamarine;
+}
+
+.section-4 {
+  background-color: hsl(97, 86%, 61%);
+}
